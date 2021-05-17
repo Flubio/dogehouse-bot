@@ -1,0 +1,15 @@
+{
+  "name": "dogehousebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run-dev": "nodemon src/index.js"
+  },
+  "author": "FlubioStudios",
+  "license": "ISC",
+  "dependencies": {
+    "dogehouse.js": "^2.0.5",
+    "dotenv": "^9.0.2"
+  }
+}
